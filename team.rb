@@ -37,10 +37,3 @@ end
   Team4.show_team_result
   Team5.show_team_result
   Team6.show_team_result
-  
-  Team1.calc_win_rete
-  Team2.calc_win_rete
-  Team3.calc_win_rete
-  Team4.calc_win_rete
-  Team5.calc_win_rete
-  Team6.calc_win_rete
